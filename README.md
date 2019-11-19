@@ -1,1 +1,2 @@
-flask_upload_local
+flask_upload_server
+server上運行的flask app
